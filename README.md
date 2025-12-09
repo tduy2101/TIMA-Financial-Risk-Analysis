@@ -1,3 +1,5 @@
+<img width="1214" height="690" alt="image" src="https://github.com/user-attachments/assets/6e32d928-8727-4f80-aaf2-84e93325da55" />
+
 # TIMA Financial Data Analysis Project 📊🚀
 
 ## 📖 Giới thiệu (Introduction)
