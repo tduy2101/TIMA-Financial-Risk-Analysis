@@ -21,7 +21,7 @@ Dự án áp dụng quy trình phân tích dữ liệu từ đầu đến cuối
 ---
 
 ## 🗂 Cấu trúc Dự án (Project Structure)
-
+Link drive dự án: https://drive.google.com/drive/folders/1kkW2uuDIeXb8GP4X_5nkTug4RQmOhw9-?usp=sharing
 ### 📂 1. Data Understanding & Preparation
 * **Task 1 - Overview:** Tìm hiểu nghiệp vụ P2P, xác định KPIs (Ticket Size, Approval Rate, NPL Ratio) và Data Dictionary.
 * **Task 2 - Data Cleaning (Python):**
